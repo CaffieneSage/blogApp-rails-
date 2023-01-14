@@ -7,10 +7,13 @@ ruby "3.1.2"
 gem "rails", "~> 7.0.4"
 
 #Add in RVM or Ruby Version Manager gem.
-gem 'rvm', '~> 1.11', '>= 1.11.3.9'
+gem "rvm", "~> 1.11", ">= 1.11.3.9"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
+
+#Add bootstrap.
+gem "bootstrap", "~> 5.2.2"
 
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
