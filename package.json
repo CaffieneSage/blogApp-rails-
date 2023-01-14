@@ -1,0 +1,8 @@
+{
+  "name": "blogApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CaffieneSage/blogApp-rails-.git",
+  "author": "TCS <caffeinesage44@gmail.com>",
+  "license": "MIT"
+}
