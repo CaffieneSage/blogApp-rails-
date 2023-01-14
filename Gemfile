@@ -12,6 +12,9 @@ gem "rvm", "~> 1.11", ">= 1.11.3.9"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+#Add popper for which is a dependency for bootstrap.
+gem 'popper_js', '~> 2.11', '>= 2.11.6'
+
 #Add bootstrap.
 gem "bootstrap", "~> 5.2.2"
 
