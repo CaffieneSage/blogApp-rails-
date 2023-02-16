@@ -1,12 +1,11 @@
 class PagesController < ApplicationController
 
-    def home
+    def index
+
     
     end
     
     def about
-
-        get '/about/:id', to: 'about#show'
 
 
     end
