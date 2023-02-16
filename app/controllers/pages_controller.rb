@@ -6,6 +6,9 @@ class PagesController < ApplicationController
     
     def about
 
+        get '/about/:id', to: 'about#show'
+
+
     end
 
 end
